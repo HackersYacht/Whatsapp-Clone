@@ -1,0 +1,40 @@
+{
+  "store" : [
+    {
+      "name" : "Peter Parker",
+      "message" : "With great powers, comes responsibility"
+    },
+    {
+      "name" : "Thanos",
+      "message" : "The hardest choices require the strongest wills"
+    },
+    {
+      "name" : "Loki",
+      "message":"You will never be God!👿"
+    },
+    {
+      "name" : "Tony Stark",
+      "message":"Alright kid, you're an Avenger now!"
+    },
+    {
+      "name" : "Groot",
+      "message":"I am Groot"
+    },
+    {
+      "name" : "Drax",
+      "message":"Die, Blanket of Death!😈"
+    },
+    {
+      "name" : "T'Challa",
+      "message":"Evacuate the city. Engage all defenses, and get this man a shield."
+    },
+    {
+      "name" : "T'Challa",
+      "message":"Evacuate the city. Engage all defenses, and get this man a shield."
+    },
+    {
+      "name" : "T'Challa",
+      "message":"Evacuate the city. Engage all defenses, and get this man a shield."
+    }
+  ]
+}
